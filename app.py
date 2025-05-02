@@ -1,3 +1,4 @@
 a = 'hello'
 b= 'nithish'
-print(a+b)
+if a== 'hello'
+  print('yes')
